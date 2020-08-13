@@ -3,23 +3,24 @@
 ![](images/houston.jpg)
 
 ## Introduction
-
+ Real estate is an absolutely lucrative investment. However, without any logistic forecast and analysis, one can fall into dangerous traps easily. For instance, a company went backruptcy because they invested a large amount of fund into real estate just before the market crash that caused by a recession. Therefore, this project's goal is to give a recommendation of Top 5 zip codes in Harris County, Texas to real-estate investment firms. Harris County's house market analysis was performed on time series dataset from Zillow Research Page - an American online real estate database company. The dataset consists of nearly 15,000 zip codes all around the U.S. and ranges from the year of 1996 to 2018. The evaluation of top models is based on minimized Mean Squared Error (MSE) and the Return On Investment (ROI) yield. 
 
 ## Methodology
-- Data Preprocessing
+### 1) Data Preprocessing
   * Reshape from wide to long format
   * Check for Trend, Seasonality, and Residuals
   ![](images/trend_seasonal_noise.jpg)
   * Check for Stationarity
   ![](images/stationarity.jpg)
 
-- Data Exploration and Visualization
+### 2) Data Exploration and Visualization
 ![](images/harris_value_over_time.jpg)
 
-- Time Series Analysis and ARIMA Modeling
-  Based on MSE and ROI yields
+### 3) Time Series Analysis and ARIMA Modeling
+  ### Based on MSE and ROI yields
+  ![](images/model_77093.jpg)
 
-- Result Details of Top 5 Zip Codes in Harris County
+### 4) Result Details of Top 5 Zip Codes in Harris County
 ![](images/top_5_value_over_time.jpg)
 
 
