@@ -30,11 +30,11 @@
 - <a href="https://github.com/linhmai19/housing_time_series_modeling/blob/master/time_series_modeling.ipynb">Time Series Modeling</a>
 
 ## Presentation
-- Presentation Slides: <a href="">Time Series Modeling Presentation</a>
+- Presentation Slides: <a href="https://github.com/linhmai19/housing_time_series_modeling/blob/master/time_series_presentation.pdf">Time Series Modeling Presentation</a>
 
 - Oral Presenation: <a href="">Time Series Modeling Oral Presentation</a>
 
-- Blog Post: <a href="">Time Series Modeling For House Market In Harris County, TX</a>
+- Blog Post: <a href="https://medium.com/@linhnp.mai/time-series-modeling-with-arima-for-house-market-in-harris-county-tx-289331a0971a">Time Series Modeling For House Market In Harris County, TX</a>
 
 
 
